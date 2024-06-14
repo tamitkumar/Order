@@ -5,16 +5,16 @@
 *.ear
 
 # Ignore build directories
-target/
-out/
-build/
+target
+out
+build
 
 # Ignore IDE files
-.idea/
-.vscode/
-.classpath/
-.project/
-.settings/
+.idea
+.vscode
+.classpath
+.project
+.settings
 # Ignore logs and temporary files
-logs/
-temp/
+logs
+temp
